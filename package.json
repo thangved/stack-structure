@@ -22,6 +22,6 @@
         "dataStructure"
     ],
     "publishConfig": {
-        "registry": "git://github.com/thangved/stack-structure.git"
+        "registry": "https://npm.pkg.github.com"
     }
 }
