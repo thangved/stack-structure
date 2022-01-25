@@ -20,8 +20,5 @@
 		"stack",
 		"thangved",
 		"dataStructure"
-	],
-	"publishConfig": {
-		"registry": "https://npm.pkg.github.com/thangved"
-	}
+	]
 }
