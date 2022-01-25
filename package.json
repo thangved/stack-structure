@@ -1,6 +1,6 @@
 {
 	"name": "stack-structure",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "A Stack Library",
 	"main": "index.js",
 	"repository": {
