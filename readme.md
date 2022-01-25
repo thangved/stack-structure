@@ -1,11 +1,11 @@
-# thangved-stack
+# stack-structure
 
 A stack library
 
 ## Usage
 
 ```js
-import Stack from "thangved-stack";
+import Stack from "stack-structure";
 
 const stack = new Stack();
 ```
