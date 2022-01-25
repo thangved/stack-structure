@@ -1,27 +1,27 @@
 {
-    "name": "stack-structure",
-    "version": "1.0.0",
-    "description": "A Stack Library",
-    "main": "index.js",
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/thangved/stack-structure.git"
-    },
-    "author": "thangved",
-    "license": "MIT",
-    "scripts": {
-        "prettier": "prettier --write . --use-tabs=true --tab-width=4",
-        "build": "yarn prettier"
-    },
-    "devDependencies": {
-        "prettier": "^2.5.1"
-    },
-    "keywords": [
-        "stack",
-        "thangved",
-        "dataStructure"
-    ],
-    "publishConfig": {
-        "registry": "https://npm.pkg.github.com/thangved"
-    }
+	"name": "stack-structure",
+	"version": "1.0.0",
+	"description": "A Stack Library",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/thangved/stack-structure.git"
+	},
+	"author": "thangved",
+	"license": "MIT",
+	"scripts": {
+		"prettier": "prettier --write . --use-tabs=true --tab-width=4",
+		"build": "yarn prettier"
+	},
+	"devDependencies": {
+		"prettier": "^2.5.1"
+	},
+	"keywords": [
+		"stack",
+		"thangved",
+		"dataStructure"
+	],
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com/thangved"
+	}
 }
