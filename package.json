@@ -1,5 +1,5 @@
 {
-	"name": "stack-structure",
+	"name": "stack-struct",
 	"version": "1.0.0",
 	"description": "A Stack Library",
 	"main": "index.js",
