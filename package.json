@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/thangved/stack-structure.git"
+		"url": "https://github.com/thangved/stack-structure.git"
 	},
 	"author": "thangved",
 	"license": "MIT",
